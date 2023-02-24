@@ -1,0 +1,29 @@
+bibentry(
+  header  = "To cite 'RDM' in publications, use:",
+  bibtype = "Manual",
+  title   = "RDM: Quantify Dependence using Rearranged Dependence Measures",
+  author  = c(person("Christopher", "Strothmann"),
+              person("Holger", "Dette"),
+              person("Karl Friedrich", "Siburg")),
+  year    = "2023",
+  note    = "R package version 0.1.1",
+  url     = "https://github.com/ChristopherStrothmann/RDM/"
+)
+
+bibentry(
+  header  = "If appropriate, use:",
+  bibtype = "Article",
+  entry   = "unpublished",
+  title   = "Rearranged dependence measures",
+  author  = c(person("Christopher", "Strothmann"),
+              person("Holger", "Dette"),
+              person("Karl Friedrich", "Siburg")),
+  year    = "2022",
+  note    = "Under review",
+  arXiv   =  "https://arxiv.org/pdf/2201.03329.pdf",
+  journal = "arXiv",
+  eprint = "2201.03329",
+  primaryClass = "math.ST",
+  textVersion = paste(
+  "Strothmann, C., H. Dette and K. F. Siburg","Rearranged dependence measures.","arXiv preprint arXiv:2201.03329 (2022)")
+)
